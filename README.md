@@ -1,3 +1,5 @@
+Case-Itau-Api-main
+
 🚀 Começando:
 
 Criação de uma API Rest Spring Boot com JPA, H2, Lombok e Maven como gerenciador de dependências.
